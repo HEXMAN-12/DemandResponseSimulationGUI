@@ -1,0 +1,75 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace DemandResponseSimulationGUI
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void ConsumerID_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void InitialDemand_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void PriceSensitivity_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void PriceSignal_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void AddConsumerButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void SetPriceSignalButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void RunSimulationButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ClearListButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ExitButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
