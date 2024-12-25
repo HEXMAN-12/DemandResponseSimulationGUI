@@ -55,17 +55,17 @@ The application includes robust input validation:
 Clone this repository and build the project in Visual Studio. Run the application to start simulating demand response scenarios.
 
 ```bash
-git clone https://github.com/your-username/demand-response-simulation-gui.git
+git clone https://github.com/HEXMAN-12/DemandResponseSimulationGUI.git
 ```
 
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for bug fixes or feature enhancements.
 
-##Contact
+## Contact
 For any questions or support, feel free to contact the developer:HEXMAN-12
 
 
