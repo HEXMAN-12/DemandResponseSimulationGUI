@@ -27,8 +27,8 @@ This project is a Windows Forms Application that simulates demand response in a 
 6. Use **Clear List** to reset all data or **Exit** to close the application.
 
 ## Screenshots
+![Application Screenshot](assets/screenshot-1.png)
 
-*Add relevant screenshots of the application here.*
 
 ## How It Works
 
@@ -56,6 +56,8 @@ Clone this repository and build the project in Visual Studio. Run the applicatio
 
 ```bash
 git clone https://github.com/your-username/demand-response-simulation-gui.git
+```
+
 
 ##License
 This project is licensed under the MIT License. See the LICENSE file for details.
