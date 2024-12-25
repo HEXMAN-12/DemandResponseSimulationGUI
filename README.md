@@ -59,13 +59,13 @@ git clone https://github.com/your-username/demand-response-simulation-gui.git
 ```
 
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for bug fixes or feature enhancements.
 
-##Contact
+## Contact
 For any questions or support, feel free to contact the developer:HEXMAN-12
 
 
